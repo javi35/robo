@@ -1,0 +1,4 @@
+@echo off
+cd
+xcopy " " "carpeta destino" /Y /H /E /F /I
+exit
